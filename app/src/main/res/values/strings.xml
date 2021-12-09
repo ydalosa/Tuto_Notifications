@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tuto Notifications</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur purus
+        dolor, fringilla quis mauris vitae, congue auctor justo. Fusce tempus, neque venenatis cursus
+        tincidunt, urna libero sodales est, vel porta felis magna ac mi. Integer finibus a sem et
+        ccumsan. Sed ut consequat lacus, nec faucibus est. Donec condimentum, lectus sit amet dapibus
+        accumsan, est neque efficitur dolor, semper convallis odio ante non lacus. Vivamus pretium est
+        quis orci suscipit blandit.</string>
+</resources>
